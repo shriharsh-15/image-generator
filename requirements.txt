@@ -1,0 +1,7 @@
+streamlit
+Pillow
+diffusers
+torch
+transformers
+peft
+python-dotenv
