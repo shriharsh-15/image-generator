@@ -22,4 +22,5 @@ streamlit run app.py
 - Enter a prompt like: `A futuristic cityscape at sunset`
 - Click "Generate Image"
 - Download the image and its attribute
+  -----
 Created by shriharsh-15
