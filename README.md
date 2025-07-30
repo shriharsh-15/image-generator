@@ -23,4 +23,4 @@ streamlit run app.py
 - Click "Generate Image"
 - Download the image and its attribute
   -----
-#Created by shriharsh-15
+Created by shriharsh-15
